@@ -9,6 +9,8 @@
                 b. Game rectangle condition : In the middle of the pitch there is a rectangle dimensioned 3mx2m.
                 c. Normal with no constraints.
 
+  Results : Check table and figures.
+
 
 
 
