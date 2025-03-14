@@ -5,7 +5,7 @@
 #### Research Question : Does the manipulation of constraints in football SSG has any effect on physical & technical performances of University football players.
 
 * Data Collection : Wimu PRO GPS devices
-* Constraints : a. Game mute condition (Players can not communicate verbally among themselves)
+* Constraints : a. Game mute condition (Players can not communicate verbally among themselves
                 b. Game rectangle condition : In the middle of the pitch there is a rectangle dimensioned 3mx2m.
                 c. Normal with no constraints.
 
